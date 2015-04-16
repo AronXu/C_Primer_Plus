@@ -1,1 +1,2 @@
-Hi this is my first git repository!
+Git is a version control system.
+Git is free software.
