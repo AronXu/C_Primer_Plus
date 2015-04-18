@@ -1,0 +1,2 @@
+checking.c showdiamond.c
+ have function\n
